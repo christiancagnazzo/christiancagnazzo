@@ -5,9 +5,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/christian-damiano-cagnazzo-9a61841b9" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white" alt="christiancagnazzo@hotmail.com"/></a>
-<a href="mailto:christiancagnazzo%40hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-christiancagnazzo%40hotmail.com-lightgrey" alt="christiancagnazzo@hotmail.com"/></a>
 <a href="mailto:christian.cagnazzo99@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/GMail-red?logo=GMail&logoColor=white" alt="christian.cagnazzo99@gmail.com" /></a>
-<
 </p>
 
 <div style="width:720px" id="skills" align="center">
